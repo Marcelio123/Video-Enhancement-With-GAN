@@ -1,0 +1,254 @@
+
+********STARTING FROM EPOCH 0********
+[2024-05-10 14:06:07]
+epoch:0
+
+********STARTING FROM EPOCH 0********
+[2024-05-10 14:06:56]
+epoch:0
+index: 0
+ train loss: 4947.08056640625
+
+********STARTING FROM EPOCH 0********
+[2024-05-10 14:12:08]
+epoch:0
+index: 0
+ train loss: 2458.077880859375
+index: 10
+ train loss: 3849.204345703125
+
+********STARTING FROM EPOCH 0********
+[2024-05-10 14:40:20]
+epoch:0
+index: 0
+ train loss: 2105.693359375
+index: 10
+ train loss: 3206.4951171875
+index: 20
+ train loss: 1777.41748046875
+index: 30
+ train loss: 2533.292236328125
+index: 40
+ train loss: 3873.863525390625
+index: 50
+ train loss: 3080.160400390625
+index: 60
+ train loss: 2537.95458984375
+index: 70
+ train loss: 2748.914306640625
+index: 80
+ train loss: 2848.077880859375
+index: 90
+ train loss: 1681.3624267578125
+index: 100
+ train loss: 2862.836181640625
+saving checkpoint
+index: 110
+ train loss: 2142.415283203125
+index: 120
+ train loss: 2711.864501953125
+index: 130
+ train loss: 1545.061767578125
+index: 140
+ train loss: 1776.7445068359375
+index: 150
+ train loss: 3872.752197265625
+index: 160
+ train loss: 2538.935791015625
+index: 170
+ train loss: 4327.17236328125
+index: 180
+ train loss: 2560.36474609375
+index: 190
+ train loss: 4327.87109375
+index: 200
+ train loss: 3150.16162109375
+saving checkpoint
+index: 210
+ train loss: 5365.69140625
+index: 220
+ train loss: 3952.152099609375
+index: 230
+ train loss: 2360.489990234375
+index: 240
+ train loss: 3101.193603515625
+index: 250
+ train loss: 3194.024169921875
+index: 260
+ train loss: 1705.1578369140625
+index: 270
+ train loss: 1150.626220703125
+index: 280
+ train loss: 3618.796630859375
+index: 290
+ train loss: 3279.61767578125
+index: 300
+ train loss: 2766.150634765625
+saving checkpoint
+index: 310
+ train loss: 2469.36669921875
+index: 320
+ train loss: 3205.32177734375
+index: 330
+ train loss: 2731.56494140625
+index: 340
+ train loss: 2387.306396484375
+index: 350
+ train loss: 1516.1829833984375
+index: 360
+ train loss: 2798.404296875
+index: 370
+ train loss: 2891.5361328125
+index: 380
+ train loss: 10456.88671875
+index: 390
+ train loss: 4287.92529296875
+index: 400
+ train loss: 1921.8797607421875
+saving checkpoint
+index: 410
+ train loss: 4190.89208984375
+index: 420
+ train loss: 2424.641845703125
+index: 430
+ train loss: 1574.7923583984375
+index: 440
+ train loss: 5479.4296875
+index: 450
+ train loss: 3574.053466796875
+index: 460
+ train loss: 3257.7919921875
+index: 470
+ train loss: 2837.768798828125
+index: 480
+ train loss: 2231.08056640625
+index: 490
+ train loss: 2827.339111328125
+index: 500
+ train loss: 1879.891845703125
+saving checkpoint
+index: 510
+ train loss: 3764.91259765625
+index: 520
+ train loss: 2916.8974609375
+index: 530
+ train loss: 2923.307373046875
+index: 540
+ train loss: 5626.7626953125
+index: 550
+ train loss: 2524.50439453125
+index: 560
+ train loss: 2799.537109375
+index: 570
+ train loss: 1775.567626953125
+index: 580
+ train loss: 4028.48095703125
+index: 590
+ train loss: 2529.3291015625
+index: 600
+ train loss: 2979.27490234375
+saving checkpoint
+index: 610
+ train loss: 2406.199951171875
+index: 620
+ train loss: 3592.030029296875
+index: 630
+ train loss: 3634.9794921875
+index: 640
+ train loss: 2693.834716796875
+index: 650
+ train loss: 3729.69189453125
+index: 660
+ train loss: 1698.82421875
+index: 670
+ train loss: 2460.75439453125
+index: 680
+ train loss: 2673.178955078125
+index: 690
+ train loss: 2056.067626953125
+index: 700
+ train loss: 2358.972412109375
+saving checkpoint
+index: 710
+ train loss: 1290.595458984375
+index: 720
+ train loss: 2165.19091796875
+index: 730
+ train loss: 1889.1932373046875
+index: 740
+ train loss: 2529.72021484375
+index: 750
+ train loss: 2631.352294921875
+index: 760
+ train loss: 3082.279296875
+index: 770
+ train loss: 3252.562744140625
+index: 780
+ train loss: 1588.9935302734375
+index: 790
+ train loss: 2819.543701171875
+index: 800
+ train loss: 5390.43701171875
+saving checkpoint
+index: 810
+ train loss: 1237.510498046875
+index: 820
+ train loss: 2891.425048828125
+index: 830
+ train loss: 4623.5107421875
+index: 840
+ train loss: 2473.154052734375
+index: 850
+ train loss: 3898.784912109375
+index: 860
+ train loss: 2906.570556640625
+index: 870
+ train loss: 2433.5576171875
+index: 880
+ train loss: 2879.6435546875
+index: 890
+ train loss: 1966.0987548828125
+index: 900
+ train loss: 4607.955078125
+saving checkpoint
+index: 910
+ train loss: 2287.1083984375
+index: 920
+ train loss: 1775.6075439453125
+index: 930
+ train loss: 1700.831787109375
+index: 940
+ train loss: 3429.980712890625
+index: 950
+ train loss: 2067.163818359375
+index: 960
+ train loss: 3067.1220703125
+index: 970
+ train loss: 2444.638916015625
+index: 980
+ train loss: 5519.05224609375
+index: 990
+ train loss: 2109.361083984375
+index: 1000
+ train loss: 3982.398681640625
+saving checkpoint
+checkpoint saved at {ckpt_dir}
+start validating for epoch 0
+average psnr: 33.3466
+average ssim: 0.9420
+index: 1010
+ train loss: 2021.730224609375
+index: 1020
+ train loss: 3063.545166015625
+index: 1030
+ train loss: 2969.062744140625
+index: 1040
+ train loss: 2210.582275390625
+index: 1050
+ train loss: 4245.4326171875
+index: 1060
+ train loss: 2908.806640625
+index: 1070
+ train loss: 11661.306640625
+index: 1080
+ train loss: 1414.72998046875

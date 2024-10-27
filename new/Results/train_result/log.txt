@@ -1,0 +1,275 @@
+
+********STARTING FROM EPOCH 0********
+[2024-05-07 21:39:48]
+epoch:0
+
+********STARTING FROM EPOCH 0********
+[2024-05-07 21:43:24]
+epoch:0
+index: 0
+ train loss: 2319.780517578125
+index: 10
+ train loss: 5349.35107421875
+index: 20
+ train loss: 4263.5009765625
+
+********STARTING FROM EPOCH 0********
+[2024-05-07 21:49:32]
+epoch:0
+
+********STARTING FROM EPOCH 0********
+[2024-05-07 21:58:46]
+epoch:0
+
+********STARTING FROM EPOCH 0********
+[2024-05-07 22:03:03]
+epoch:0
+
+********STARTING FROM EPOCH 0********
+[2024-05-07 22:16:42]
+epoch:0
+
+********STARTING FROM EPOCH 0********
+[2024-05-07 22:20:53]
+epoch:0
+index: 0
+ train loss: 2477.473876953125
+
+********STARTING FROM EPOCH 0********
+[2024-05-08 13:55:36]
+start validating for epoch 0
+********STARTING FROM EPOCH 0********
+[2024-05-08 13:56:16]
+start validating for epoch 0
+********STARTING FROM EPOCH 0********
+[2024-05-08 13:59:17]
+start validating for epoch 0
+********STARTING FROM EPOCH 0********
+[2024-05-08 14:37:16]
+epoch:0
+
+********STARTING FROM EPOCH 0********
+[2024-05-08 14:38:22]
+epoch:0
+index: 0
+ train loss: 9750.080078125
+saving checkpoint
+checkpoint saved at {ckpt_dir}
+start validating for epoch 0
+
+********STARTING FROM EPOCH 0********
+[2024-05-08 14:41:26]
+epoch:0
+index: 0
+ train loss: 8840.9931640625
+index: 10
+ train loss: 5528.67236328125
+index: 20
+ train loss: 10240.7197265625
+
+********STARTING FROM EPOCH 0********
+[2024-05-08 15:46:43]
+epoch:0
+index: 0
+ train loss: 3578.173828125
+index: 10
+ train loss: 5201.734375
+index: 20
+ train loss: 3142.341796875
+index: 30
+ train loss: 3581.30859375
+index: 40
+ train loss: 7236.17578125
+index: 50
+ train loss: 8130.93896484375
+saving checkpoint
+checkpoint saved at {ckpt_dir}
+start validating for epoch 0
+
+********STARTING FROM EPOCH 0********
+[2024-05-08 16:01:00]
+epoch:0
+index: 0
+ train loss: 6603.20849609375
+index: 10
+ train loss: 5351.85986328125
+index: 20
+ train loss: 3346.18701171875
+index: 30
+ train loss: 10871.9443359375
+index: 40
+ train loss: 7361.314453125
+index: 50
+ train loss: 13503.31640625
+index: 60
+ train loss: 4638.8701171875
+index: 70
+ train loss: 1978.6346435546875
+index: 80
+ train loss: 11005.5263671875
+index: 90
+ train loss: 5996.5546875
+index: 100
+ train loss: 6783.17333984375
+saving checkpoint
+checkpoint saved at {ckpt_dir}
+start validating for epoch 0
+
+********STARTING FROM EPOCH 0********
+[2024-05-08 19:04:55]
+epoch:0
+
+********STARTING FROM EPOCH 0********
+[2024-05-08 19:06:56]
+epoch:0
+index: 0
+ train loss: 2539.559326171875
+index: 10
+ train loss: 1513.556884765625
+index: 20
+ train loss: 2201.484130859375
+index: 30
+ train loss: 2423.4423828125
+index: 40
+ train loss: 1924.7802734375
+index: 50
+ train loss: 4062.12841796875
+index: 60
+ train loss: 1227.6654052734375
+index: 70
+ train loss: 3407.588623046875
+index: 80
+ train loss: 2652.60791015625
+index: 90
+ train loss: 2161.61767578125
+index: 100
+ train loss: 3465.8583984375
+saving checkpoint
+checkpoint saved at {ckpt_dir}
+start validating for epoch 0
+average psnr: 31.5019
+average ssim: 0.9345
+average psnr compared to vsr output: 33.7891
+average ssim compared to vsr output: 0.9629
+
+********STARTING FROM EPOCH 0********
+[2024-05-08 20:17:53]
+epoch:0
+index: 0
+ train loss: 1352.5001220703125
+index: 10
+ train loss: 2922.239501953125
+index: 20
+ train loss: 4166.9755859375
+index: 30
+ train loss: 1906.5703125
+index: 40
+ train loss: 7219.10205078125
+index: 50
+ train loss: 2638.598876953125
+index: 60
+ train loss: 3533.087890625
+index: 70
+ train loss: 3701.402587890625
+index: 80
+ train loss: 2078.77099609375
+index: 90
+ train loss: 3632.5322265625
+index: 100
+ train loss: 3607.688232421875
+saving checkpoint
+checkpoint saved at {ckpt_dir}
+start validating for epoch 0
+
+********STARTING FROM EPOCH 0********
+[2024-05-08 21:22:49]
+epoch:0
+index: 0
+ train loss: 3528.272705078125
+
+********STARTING FROM EPOCH 0********
+[2024-05-08 21:25:52]
+epoch:0
+index: 0
+ train loss: 4103.3349609375
+index: 10
+ train loss: 3871.352783203125
+index: 20
+ train loss: 1427.6458740234375
+index: 30
+ train loss: 2571.839111328125
+index: 40
+ train loss: 3498.40869140625
+index: 50
+ train loss: 1880.4766845703125
+index: 60
+ train loss: 992.0765991210938
+index: 70
+ train loss: 2650.833251953125
+index: 80
+ train loss: 3045.048583984375
+index: 90
+ train loss: 1825.793212890625
+index: 100
+ train loss: 1239.449951171875
+saving checkpoint
+checkpoint saved at {ckpt_dir}
+start validating for epoch 0
+average psnr: 30.7135
+average ssim: 0.9219
+average psnr compared to vsr output: 32.6850
+average ssim compared to vsr output: 0.9504
+index: 110
+ train loss: 2499.357177734375
+index: 120
+ train loss: 1404.78662109375
+index: 130
+ train loss: 2306.60205078125
+index: 140
+ train loss: 1489.25732421875
+index: 150
+ train loss: 2005.6102294921875
+index: 160
+ train loss: 1466.4093017578125
+index: 170
+ train loss: 6780.36474609375
+index: 180
+ train loss: 2421.49267578125
+index: 190
+ train loss: 2906.46533203125
+index: 200
+ train loss: 3119.70458984375
+saving checkpoint
+checkpoint saved at {ckpt_dir}
+start validating for epoch 0
+average psnr: 31.3975
+average ssim: 0.9348
+average psnr compared to vsr output: 33.6155
+average ssim compared to vsr output: 0.9625
+index: 210
+ train loss: 2319.183349609375
+index: 220
+ train loss: 727.9334716796875
+index: 230
+ train loss: 5587.42431640625
+index: 240
+ train loss: 1440.8143310546875
+index: 250
+ train loss: 2388.907958984375
+index: 260
+ train loss: 2841.092041015625
+index: 270
+ train loss: 3328.892822265625
+index: 280
+ train loss: 1147.10595703125
+index: 290
+ train loss: 1718.045654296875
+index: 300
+ train loss: 1439.9268798828125
+saving checkpoint
+checkpoint saved at {ckpt_dir}
+start validating for epoch 0
+average psnr: 31.4781
+average ssim: 0.9344
+average psnr compared to vsr output: 33.7156
+average ssim compared to vsr output: 0.9625

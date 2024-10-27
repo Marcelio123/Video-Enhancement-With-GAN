@@ -1,0 +1,6 @@
+
+********STARTING FROM EPOCH 0********
+[2024-05-10 14:20:25]
+epoch:0
+index: 0
+ train loss: 1508.1510009765625

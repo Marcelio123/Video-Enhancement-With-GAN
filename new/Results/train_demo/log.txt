@@ -1,0 +1,64 @@
+
+********STARTING FROM EPOCH 0********
+[2024-05-29 22:17:58]
+epoch:0
+index: 0
+ train loss: 3420.2421875
+
+********STARTING FROM EPOCH 0********
+[2024-05-29 22:46:27]
+epoch:0
+index: 0
+ train loss: 2446.17236328125
+
+********STARTING FROM EPOCH 0********
+[2024-05-29 22:58:06]
+epoch:0
+index: 0
+ train loss: 3703.07177734375
+index: 10
+ train loss: 2138.674072265625
+index: 20
+ train loss: 984.2297973632812
+index: 30
+ train loss: 5710.9384765625
+index: 40
+ train loss: 1951.7193603515625
+index: 50
+ train loss: 3664.983642578125
+index: 60
+ train loss: 5493.65869140625
+index: 70
+ train loss: 2255.791015625
+index: 80
+ train loss: 2190.467041015625
+index: 90
+ train loss: 6412.67626953125
+index: 100
+ train loss: 1582.4580078125
+saving checkpoint
+index: 110
+ train loss: 2581.573486328125
+index: 120
+ train loss: 2813.835693359375
+index: 130
+ train loss: 3748.18212890625
+index: 140
+ train loss: 1622.652587890625
+index: 150
+ train loss: 1512.9024658203125
+index: 160
+ train loss: 3164.610107421875
+index: 170
+ train loss: 5897.4619140625
+index: 180
+ train loss: 3932.00927734375
+index: 190
+ train loss: 1503.489990234375
+index: 200
+ train loss: 3707.32177734375
+saving checkpoint
+index: 210
+ train loss: 1992.2501220703125
+index: 220
+ train loss: 1302.4049072265625

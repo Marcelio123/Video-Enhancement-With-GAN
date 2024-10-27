@@ -1,0 +1,38 @@
+
+********STARTING FROM EPOCH 0********
+[2024-05-10 18:35:58]
+epoch:0
+index: 0
+ train loss: 5775.2109375
+index: 10
+ train loss: 4456.4423828125
+index: 20
+ train loss: 13749.3486328125
+index: 30
+ train loss: 4703.17333984375
+index: 40
+ train loss: 7692.18359375
+
+********STARTING FROM EPOCH 0********
+[2024-05-10 19:06:24]
+epoch:0
+index: 0
+ train loss: 5552.3349609375
+index: 10
+ train loss: 7860.357421875
+index: 20
+ train loss: 3592.489990234375
+index: 30
+ train loss: 6090.060546875
+index: 40
+ train loss: 6383.86279296875
+index: 50
+ train loss: 6887.21630859375
+index: 60
+ train loss: 5381.5361328125
+index: 70
+ train loss: 3898.4921875
+index: 80
+ train loss: 6802.3583984375
+index: 90
+ train loss: 6641.19482421875

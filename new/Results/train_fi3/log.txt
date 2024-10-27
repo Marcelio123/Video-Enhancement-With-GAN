@@ -1,0 +1,95 @@
+
+********STARTING FROM EPOCH 0********
+[2024-05-11 14:12:50]
+epoch:0
+index: 0
+ train loss: 3687.4814453125
+
+********STARTING FROM EPOCH 0********
+[2024-05-11 15:44:30]
+epoch:0
+index: 0
+ train loss: 9278.60546875
+index: 10
+ train loss: 6608.763671875
+index: 20
+ train loss: 6244.22021484375
+index: 30
+ train loss: 4540.75732421875
+index: 40
+ train loss: 7230.55859375
+index: 50
+ train loss: 9332.798828125
+index: 60
+ train loss: 8392.7802734375
+index: 70
+ train loss: 4451.208984375
+index: 80
+ train loss: 6673.4697265625
+index: 90
+ train loss: 11719.509765625
+index: 100
+ train loss: 7015.9716796875
+saving checkpoint
+index: 110
+ train loss: 10427.1708984375
+index: 120
+ train loss: 7368.421875
+index: 130
+ train loss: 4398.0986328125
+index: 140
+ train loss: 5308.79052734375
+index: 150
+ train loss: 7572.3369140625
+index: 160
+ train loss: 6092.5146484375
+index: 170
+ train loss: 6288.69287109375
+index: 180
+ train loss: 5671.6220703125
+index: 190
+ train loss: 6131.08056640625
+index: 200
+ train loss: 3709.098876953125
+saving checkpoint
+index: 210
+ train loss: 8450.365234375
+index: 220
+ train loss: 8417.4638671875
+index: 230
+ train loss: 5784.68310546875
+index: 240
+ train loss: 4744.9912109375
+index: 250
+ train loss: 5279.61083984375
+checkpoint saved at {ckpt_dir}
+start validating for epoch 0
+average psnr: 33.7276
+average ssim: 0.9523
+index: 260
+ train loss: 7581.27685546875
+index: 270
+ train loss: 5264.33642578125
+index: 280
+ train loss: 6313.447265625
+index: 290
+ train loss: 4659.1376953125
+index: 300
+ train loss: 6551.5947265625
+saving checkpoint
+index: 310
+ train loss: 5256.0244140625
+index: 320
+ train loss: 4640.89794921875
+index: 330
+ train loss: 7234.06005859375
+index: 340
+ train loss: 5188.9716796875
+index: 350
+ train loss: 4164.5517578125
+index: 360
+ train loss: 9240.056640625
+index: 370
+ train loss: 3897.499267578125
+index: 380
+ train loss: 3788.219482421875
